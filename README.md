@@ -1,4 +1,8 @@
-# Bagging Boosting Bayesian Optimisation
+# Bagging Boosting Bayesian Optimisation of Adult Income Dataset
+
+## Goal
+
+To improve the prediction of Adult Income Dataset which predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset using Bagging, Boosting and Bayesian Optimisation
 
 ## Bagging
 
